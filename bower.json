@@ -1,0 +1,19 @@
+{
+  "name": "gulp-build",
+  "description": "",
+  "authors": [
+    "Sarmaged <sarmaged@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "2.2.4",
+    "jquery-mask-plugin": "^1.14.11"
+  }
+}
